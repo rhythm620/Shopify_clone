@@ -1,0 +1,152 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    overflow:visible;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    /* background-color: antiquewhite; */
+}
+
+.images{
+    padding-top: 30px;
+    padding-left: 250px;
+   
+}
+.button{
+    text-decoration: none;
+}
+
+.three-images{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 650px;
+    margin-left: 50px;
+    /* margin-right: -80px; */
+}
+
+.container2{
+    display: flex;
+}
+
+.images1{
+    margin-top: 50px;
+    margin-left: 240px;
+}
+.images2{
+    margin-top: 380px;
+    margin-left: 20px;
+}
+.images3{
+    margin-top: 50px;
+    margin-left: 00px;
+}
+.images4{
+    margin-top: 380px;
+    margin-left: -10px;
+}
+.images5{
+    margin-top: 50px;
+    margin-left: -50px;
+}
+
+.button{
+    border: 0.5px solid blue;
+    font-size: 50px;
+    background-color: white;
+    color: blue;
+    padding: 40px 80px 40px 80px;
+    
+    border-radius: 30px;
+    margin-left: 1160px;
+}
+
+.images6{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.images7{
+    margin-left: 1760px;
+}
+
+.container3{
+    display: flex;
+    margin-top: 350px;
+}
+.container3 h1{
+    margin-top: 200px;
+    margin-left: 100px;
+    font-size: 90px;
+    color: blue;
+}
+
+.button1{
+   
+    margin-left: 160px;
+    margin-top: 350px;
+}
+
+.heading1{
+    margin-top: -800px ;
+    margin-left: 250px;
+    font-size: 40px;
+    color: blue;
+
+}
+
+.button2{
+    margin: 220px 0px 0px 250px;
+}
+
+.text{
+    margin-top: 250px;
+    margin-left: 830px;
+    font-size: 70px;
+    font-weight: 45;
+    color: rgb(229, 155, 239);
+    align-items: center;
+    justify-content: center;
+}
+
+#h1{
+    margin-left: 240px;
+}
+
+.image{
+    margin-left: 500px ;
+}
+.button3{
+    margin-left: 100px;
+}
+
+.para  h1{
+    margin-left: 1040px;
+    font-size: 130px;
+}
+.para h2{
+    margin-left: 670px;
+    font-size: 70px;
+
+}
+.para{
+    color: rgb(253, 191, 241);
+}
+.afterpara{
+    margin-left: 90px;
+}
+.blogs{
+    font-size: 70px;
+    color: rgb(224, 75, 75);
+    margin-left: 780px;
+}
+
+.secondpage{
+
+    margin-left: 200px;
+
+}
